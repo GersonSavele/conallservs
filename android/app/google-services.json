@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682905434880",
+    "project_id": "conallservs",
+    "storage_bucket": "conallservs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682905434880:android:3265903225bfae6871d1e5",
+        "android_client_info": {
+          "package_name": "com.example.conallservs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682905434880-748798qhaup1f9dl9qf68jdsuguhlqdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.conallservs",
+            "certificate_hash": "a59f82d17f9d41d5a7774021d32aa81e1c7f3381"
+          }
+        },
+        {
+          "client_id": "682905434880-klvf78s992kk02smavukctl6ihj2l6kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMMl1efNE1XMEx7r7q38FMF8N1yEdT0ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682905434880-klvf78s992kk02smavukctl6ihj2l6kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
